@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <Styles>
+    <Style ss:ID="Default" ss:Name="Normal">
+      <Alignment ss:Vertical="Bottom"/>
+      <Borders/>
+      <Font ss:FontName="Verdana"/>
+      <Interior/>
+      <NumberFormat/>
+      <Protection/>
+    </Style>
+    <Style ss:ID="s25">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <Font ss:FontName="Verdana" ss:Bold="1"/>
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="Công thức">
+    <Table ss:DefaultColumnWidth="100" ss:DefaultRowHeight="15">
+      <Row>
+        <Cell ss:StyleID="s25" ss:MergeAcross="1">
+          <Data ss:Type="String">Công thức</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Point</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Votes</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G3:
+(+) S+was/were+V_ing
+(-) S+was/were+not+V_ing
+(?) Was/Were+S+V_ing?
+     Yes, S+was/were
+     No, S+ wasn't/weren't</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">group 5:
+Câu khẳng định:
+-S + was/were + V-ing (+ O)
+Câu phủ định:
+-S + was/were + not + V-ing (+ O)
+Câu nghi vấn:
+(Từ để hỏi) + was/were + S + V-ing (+ O)?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Group 4:
+Thể khẳng định
+Cấu trúc	S + was/were + V-ing.
+Thể phủ định
+Cấu trúc	S + was/were + not + V-ing
+Thể nghi vấn
+Cấu trúc	Q: Was / Were + S + V-ing?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G6:S + am/ is/ are + V-ing Trong đó: S (subject): Chủ ngữ am/ is/ are: là 3 dạng của động từ “to be” V-ing: là động từ thêm “–ing”
+S + am/ is/ are + not + V-ing
+Am/ Is/ Are + S + V-ing ?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G2:
+(+) S + was/were + V-ing (+ O)
+(-) S + was/were + not + V-ing (+ O)
+(?) (Từ để hỏi) + was/were + S + V-ing (+ O)?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+  <Worksheet ss:Name="Cách dùng">
+    <Table ss:DefaultColumnWidth="100" ss:DefaultRowHeight="15">
+      <Row>
+        <Cell ss:StyleID="s25" ss:MergeAcross="1">
+          <Data ss:Type="String">Cách dùng</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Point</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Votes</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G2: 
+1. Diễn đạt hành động đang xảy ra tại một thời điểm trong quá khứ
+Ex: I was watching TV at 8p.m last night
+2. Diễn đạt hai hành động xảy ra đồng thời trong quá khứ
+Ex. I was watching TV while my mother was cooking yesterday
+3. Diễn đạt hành động đang xảy ra thì có hành động khác xen vào
+ex. When i was doing my homework, my phone rang.
+4. Hành động lặp đi lặp lại trong quá khứ và làm phiền đến người khác
+=&gt; giong cach dung cua thi HTTD
+She was always coming class late.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G1: (+)S + was/were + V-ing
+
+(-) S + was/were + not + V-ing</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Group 4:
+1. Nhấn mạnh diễn biến, quá trình của sự vật, sự việc hay thời gian sự vật, sự việc đó diễn ra
+2. Diễn tả hành động đang xảy ra tại 1 thời điểm trong quá khứ
+3. Diễn tả hành động đang xảy ra thì có hành động khác xen vào
+4. Hành động lặp đi lặp lại trong quá khứ đồng thời làm phiền đến người khác</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G5:
+-Diễn đạt hành động đang xảy ra tại một thời điểm trong quá khứ
+- Diễn đạt hai hành động xảy ra đồng thời trong quá khứ
+- Diễn đạt hành động đang xảy ra thì có hành động khác xen vào
+- Hành động lặp đi lặp lại trong quá khứ và làm phiền đến người khác</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G3: 1: Diễn tả một hành động dang diễn ra tại một thời điểm trong quá khứ
+VD:  While I was taking a bath, she is using the computer
+2: Diễn tả một hđ đang xảy ra thì hđ khác xen vào
+VD: When he worked here, he was  always making noise
+3: Diễn tả hai hay nhiều hđ xảy ra đồng thời
+VD:  When I was cooking, the light went out.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+  <Worksheet ss:Name="Dấu hiệu nhận biết">
+    <Table ss:DefaultColumnWidth="100" ss:DefaultRowHeight="15">
+      <Row>
+        <Cell ss:StyleID="s25" ss:MergeAcross="1">
+          <Data ss:Type="String">Dấu hiệu nhận biết</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Point</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Votes</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G3:
+
+1. Trong câu có bỏ những trạng từ chỉ thời gian cùng thời điểm xác định dưới quá khứ
+
+At + giờ chính xác + thời gian dưới quá khứ
+
+- I was studying English at 11 pm last night
+
+2. Thì Quá khứ tiếp diễn có sở hữu câu có “when” khi diễn tả 1 hành động đang xảy ra thì hành động khác xen vào
+
+- When she was doing homework in her room, her phone rang
+
+3. Câu có sự hiện diện của 1 số từ/cụm từ đặc biệt: while, at that time
+
+- My brother was watching TV at that time.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Group 4:Trong câu có các trạng từ chỉ thời gian trong quá khứ kèm theo thời điểm xác định.
+
+– at + giờ + thời gian trong quá khứ (at 12 o’clock last night,…)
+
+– at this time + thời gian trong quá khứ. (at this time two weeks ago, …)
+
+– in + năm (in 2000, in 2005)
+
+– in the past (trong quá khứ)
+
++ Trong câu có “when” khi diễn tả một hành động đang xảy ra và một hành động khác xen vào.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G2: 
+Trong câu có các trạng từ chỉ thời gian trong quá khứ kèm theo thời điểm xác định.
+
+– at + giờ + thời gian trong quá khứ (at 12 o’clock last night,…)
+
+– at this time + thời gian trong quá khứ. (at this time two weeks ago, …)
+
+– in + năm (in 2000, in 2005)
+
+– in the past (trong quá khứ)
+
++ Trong câu có “when” khi diễn tả một hành động đang xảy ra và một hành động khác xen vào.
+
+- Cân nhắc sử dụng thì Quá khứ tiếp diễn khi có xuất hiện các từ như: While (trong khi); When (Khi); at that time (vào thời điểm đó); …</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">g6: Trong câu có các trạng từ chỉ thời gian. Now: bây giờ Right now: Ngay bây giờ At the moment: lúc này. At present: hiện tại. At + giờ cụ</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G5:
+– at + giờ + thời gian trong quá khứ (at 12 o’clock last night,…)
+
+– at this time + thời gian trong quá khứ. (at this time two weeks ago, …)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">G1: Trong câu xuất hiện các từ:
+
+At 5pm last Sunday
+At this time last night
+When/ while/ as
+From 4pm to 9pm…</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>
